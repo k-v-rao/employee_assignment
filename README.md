@@ -1,3 +1,21 @@
+# Prerequisites
+
+
+### Angular CLI 
+
+Angular CLI uses webpack behind to do all this angular framework process. 
+#### install command.
+
+```js
+npm install - g @angular/cli
+```
+
+> **_NOTE:_** Please make sure you have installed node v16.17.0 and npm 8.15.0 or latest in your system. You can check your node version and npm version by using the following command:
+
+node --version
+
+npm --version
+
 # Steps to setup this project in your computer
 
 ## clone the source code.
